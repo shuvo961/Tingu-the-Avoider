@@ -6,7 +6,7 @@
 
 = Project: {Tingu}
 
-In this Arduino project tutorial we will create an obstacle-avoiding robot using the L298N h-bridge motor driver in this Arduino project guide. We will also use the HC SR04 ultrasonic distance sensor for this project, as well as the NewPing library in the Arduino code.
+In this Arduino project tutorial we will create an obstacle-avoiding robot using the L298N h-bridge motor driver. We will also use the HC SR04 ultrasonic distance sensor for this project, as well as the NewPing library in the Arduino code.
 
 == Step 1: Installation
 
