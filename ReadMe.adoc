@@ -10,6 +10,18 @@ The robot is designed to maneuver in an unfamiliar environment while avoiding co
 
 In this Arduino project tutorial we will create an obstacle-avoiding robot using the L298N h-bridge motor driver. We will also use the HC SR04 ultrasonic distance sensor for this project, as well as the NewPing library in the Arduino code.
 
+Required Hardware: 
+
+                                     Arduino Uno R3
+                                     L298N H-bridge
+                                     HC SR04 Sensor
+                                     SG90 Servo
+                                     DC Motor Wheel
+                                     Chassis
+                                     HC SR04 Bracket
+                                     Battery
+
+
 == Step 1: Installation
 
 
