@@ -6,6 +6,8 @@
 
 = Project: {Tingu}
 
+The robot is designed to maneuver in an unfamiliar environment while avoiding collisions. Obstacle-avoiding robot detects obstructions in its route, avoids them, and continues on its way.
+
 In this Arduino project tutorial we will create an obstacle-avoiding robot using the L298N h-bridge motor driver. We will also use the HC SR04 ultrasonic distance sensor for this project, as well as the NewPing library in the Arduino code.
 
 == Step 1: Installation
